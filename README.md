@@ -1,6 +1,8 @@
 # Bottled-water-sales-prediction
 Predictive modelling and sales forecasting for a bottled water shop
+
 Project Overview
+
 This project aims to develop a predictive modelling framework to analyse sales performance and forecast future demand in a bottled water shop. The analysis supports effective inventory planning and decision-making.
 
 Objectives
